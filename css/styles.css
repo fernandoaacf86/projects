@@ -114,7 +114,10 @@ footer h6 {
 
 footer a {
     color: white;
-    
+}
+
+footer .navbar-nav .nav-link {
+    padding: 0;
 }
 
 footer a:hover{
